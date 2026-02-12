@@ -20,6 +20,7 @@ BLOODPACT_SUSPECT_TIMER_INTERVAL = 0.1   -- OnUpdate tick for death detection ti
 BLOODPACT_JOIN_TIMEOUT    = 30           -- Seconds to wait for join response
 BLOODPACT_CHUNK_TIMEOUT   = 30           -- Seconds before incomplete chunk buffers expire
 BLOODPACT_SYNC_REQUEST_DELAY = 5         -- Seconds after login to send sync request
+BLOODPACT_QUEST_BROADCAST_COOLDOWN = 3   -- Seconds to throttle quest log broadcasts
 
 -- UI
 BLOODPACT_WINDOW_WIDTH    = 600
